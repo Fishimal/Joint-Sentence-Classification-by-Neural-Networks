@@ -100,7 +100,7 @@ pickleshare==0.7.5
 pop-transition==1.1.2
 prometheus-client==0.15.0
 prompt-toolkit==3.0.31
-protobuf==3.12.4
+protobuf==3.18.3
 psutil==5.9.3
 ptyprocess==0.7.0
 pure-eval==0.2.2
