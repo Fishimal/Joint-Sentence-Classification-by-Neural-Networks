@@ -90,7 +90,7 @@ notebook==6.5.1
 notebook_shim==0.2.0
 notify2==0.3
 numpy==1.23.4
-oauthlib==3.2.0
+oauthlib==3.2.2
 packaging==21.3
 pandas==1.5.1
 pandocfilters==1.5.0
