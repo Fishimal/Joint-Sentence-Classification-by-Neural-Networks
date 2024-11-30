@@ -36,7 +36,7 @@ defer==1.0.6
 defusedxml==0.7.1
 Deprecated==1.2.13
 distro==1.7.0
-Django==3.2.15
+Django==3.2.18
 entrypoints==0.4
 executing==1.1.1
 fastjsonschema==2.16.2
