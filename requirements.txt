@@ -25,7 +25,7 @@ colorama==0.4.4
 colour==0.1.5
 command-not-found==0.3
 constantly==15.1.0
-cryptography==38.0.1
+cryptography==39.0.1
 cupshelpers==1.0
 daemonize==2.5.0
 daphne==3.0.2
